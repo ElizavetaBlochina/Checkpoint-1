@@ -5,10 +5,9 @@ body {
 }
 
 .conteiner {
+  max-width: 1180px;
   margin: 0 auto;
-  width: 1400px;
-  background: #ffffff;
-  padding: 125px;
+  padding: 0 15px;
 }
 
 h1 {
